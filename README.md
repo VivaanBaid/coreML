@@ -1,3 +1,3 @@
 # coreML
 CoreML demo
-- NLP, vision etc.
+- Using googles vision model
